@@ -3,6 +3,7 @@ Collection of coding challenges I've personally worked through provided by sever
 * Lighthouse Labs Prep Work
 * [Codewars](https://www.codewars.com/)
 * [LeetCode](https://leetcode.com/)
+* [Codesignal](https://codesignal.com/)
 
 ## Learning Notes
 JavaScript
